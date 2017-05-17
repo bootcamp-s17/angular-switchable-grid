@@ -3,6 +3,7 @@ Switch between list and grid views. Written in Angular.
 
 ## Installation notes
 
+npm install -g bower
 bower install angular-x2js --save
 
 ## Key Concepts
